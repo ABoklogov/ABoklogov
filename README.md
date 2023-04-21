@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexey 👋
 
 - ⚡ **Welcome to my account gitHub** ⚡ 
-- 📫 How to reach me: **asboklogov@gmail.com**
+- 📫 How to reach me: **kashira87@mail.ru**
 
 ### My stack and tools
 
